@@ -22,6 +22,9 @@ const Hero = () => {
                 Summarize Articles with <br className='max-md:hidden' />
                 <span className='orange_gradient '>OpenAI GPT-4</span>
             </h1>
+            <h2 className="desc">
+                Simplfy your reading with Sumz an open-source article summarizer.
+            </h2>
         </header>
     )
 }
